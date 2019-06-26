@@ -1,0 +1,27 @@
+{
+	"Profile": {
+		"tpid": "c8ef27a0d4ba771a81159f0d2e792db4",
+		"Audiences": {
+			"Audience": [{
+				"id": "99999",
+				"abbr": "sports"
+			},
+			{
+				"id": "88888",
+				"abbr": "movie"
+			},
+			{
+				"id": "77777",
+				"abbr": "blogger"
+			}],
+			"ThirdPartyAudience": [{
+				"id": "123",
+				"name": "Automobiles"
+			},
+			{
+				"id": "456",
+				"name": "Ages: 30-39"
+			}]
+		}
+	}
+}
